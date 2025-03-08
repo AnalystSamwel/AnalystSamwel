@@ -35,7 +35,7 @@ I work with industry-leading tools and technologies, including:
 - **LinkedIn:** [https://www.linkedin.com/in/samwel-mwenda/]  
 - **Email:** [samwelin49@gmail.com]  
 - **Twitter/X:** [https://x.com/samwelmwenda_]  
-- **GitHub:** [Your GitHub Profile]  
+- **GitHub:** [https://github.com/AnalystSamwel]  
 
 ### 😄 Pronouns  
 He/Him  
