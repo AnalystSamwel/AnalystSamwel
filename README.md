@@ -36,9 +36,6 @@ I work with industry-leading tools and technologies, including:
 - **Email:** [samwelin49@gmail.com]  
 - **Twitter/X:** [https://x.com/samwelmwenda_]  
 - **GitHub:** [https://github.com/AnalystSamwel]  
-
-### 😄 Pronouns  
-He/Him  
-
+ 
 ### ⚡ Fun Fact  
 I enjoy **breaking down complex real estate deals like solving a puzzle**, using data science to predict market trends, and exploring **how AI is transforming real estate investing**. 🚀  
