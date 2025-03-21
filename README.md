@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Samwel (@AnalystSamwel)  
 
 ### 👀 About Me  
-I’m a real estate analyst, data enthusiast, and investor with a strong background in **market research, valuation, and investment modeling**. My expertise lies in **fix-and-flip projects, buy-and-hold strategies, and land valuation**. I use data-driven insights to identify lucrative real estate deals and optimize ROI for investors.  
+I’m a real estate analyst, data enthusiast with a strong background in **market research, valuation, and investment modeling**. My expertise lies in **fix-and-flip projects, buy-and-hold strategies, and land valuation**. I use data-driven insights to identify lucrative real estate deals and optimize ROI for investors.  
 
 Beyond real estate, I have a deep passion for **data analytics and financial modeling**, using cutting-edge tools to extract valuable insights from large datasets.  
 
